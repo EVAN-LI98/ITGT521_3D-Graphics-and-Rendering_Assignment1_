@@ -1,0 +1,12 @@
+﻿  TriangleScan_Base.cpp
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(19,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(20,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(67,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(68,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(69,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(70,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(72,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(73,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(74,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment1\TriangleScan_Base.cpp(75,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Assignment1.vcxproj -> E:\玛希隆课程\ITGT521\Assignment1\Debug\Assignment1.exe
