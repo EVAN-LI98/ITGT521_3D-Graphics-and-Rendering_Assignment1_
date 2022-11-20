@@ -8,11 +8,11 @@ For this assignment：
 
 ------------------------------------------------------> OpenGL Utility Toolkit OpenGL的应用工具包
 
-  Running this code requires GLUT 
-  运行需要GLUT
-  GLUT download link: https://www.opengl.org/resources/libraries/glut/glut_downloads.php
+   Running this code requires GLUT 
+   运行需要GLUT
+   GLUT download link: https://www.opengl.org/resources/libraries/glut/glut_downloads.php
 
 ------------------------------------------------------> controls 控制
 
-  left mouse button(Click three times with the left mouse button to create a triangle)
-  左键随便点击三个点
+   left mouse button(Click three times with the left mouse button to create a triangle)
+   左键随便点击三个点
