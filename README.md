@@ -4,7 +4,6 @@ Name: Yifan Li(EVAN)
 Student ID: 6537394
 
 For this assignment：
-对于这个作业
 
  ------------------------------------------------------------------------------> OpenGL Utility Toolkit  OpenGL的应用工具包
  
