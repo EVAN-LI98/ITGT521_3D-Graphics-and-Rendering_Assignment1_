@@ -17,3 +17,6 @@ For this assignment：
      (Click three times with the left mouse button to create a triangle)
      左键随便点击三个点可以生成一个三角形
               
+ ===========================================  Preview  ===========================================
+ 
+ ![Image text](https://raw.githubusercontent.com/EVAN-LI98/ITGT521_3D-Graphics-and-Rendering_Assignment1_The-Triangle-Awakens/main/ScreenShot/Assignment1_0_ScreenShot.png)
